@@ -1,0 +1,47 @@
+.my-masonry-grid {
+    margin-left: 0.5vw;
+    display: -webkit-box; /* Not needed if autoprefixing */
+    display: -ms-flexbox; /* Not needed if autoprefixing */
+    display: flex;
+    width: auto;
+}
+
+.my-masonry-grid_column {
+    padding-left: 0.5vw; /* gutter size */
+    padding-right: 0.5vw; /* gutter size */
+    padding-top: 2vh; /* gutter size */
+    padding-bottom: 2vh; /* gutter size */
+    background-clip: padding-box;
+}
+
+.my-masonry-grid_column > div { /* change div to reference your elements you put in <Masonry> */
+    margin-bottom: 2vh;
+}
+
+.form-group {
+    padding-top: 2.5vh;
+}
+
+.rendered-sources {
+    height: 20vh;
+    overflow-y: auto;
+}
+
+.top-tabbar {
+    margin-left: 15vw;
+}
+
+.card-title {
+    line-height: 180%;
+    text-align: center;
+}
+
+.card-text {
+    padding: 1%;
+    line-height: 180%;
+    text-align: justify;
+}
+
+.divider {
+    background-color: white;
+}

@@ -1,0 +1,25 @@
+1) Relatively short, not a replacement
+2) Credit the original source
+3) Provide a link the original site
+
+Source: https://www.thompsoncoburn.com/insights/blogs/internet-law-twists-turns/post/2017-05-17/news-aggregators-link-don-t-replace-your-sources
+
+4) Ideas and facts cannot be copyrighted (but the way those are expressed can be)
+5) Titles and short phrases are not protected under copyright
+
+6)  Kelly v. Arriba Soft Corp., the Ninth Circuit found that the reproduction of
+thumbnails of plaintiff’s photographs in defendant’s search engine results was transformative,
+noting that “[the search engine’s] use of the images serves a different function
+than [plaintiff’s] use — improving access to information on the internet versus artistic expression.”
+
+7) Minimally transformative, i.e. changing the intention of the original source
+
+Best practices:
+
+1. Reproduce only those portions of the headline or article that are necessary to make your point or to identify the story. Do not reproduce the story in its entirety.
+2. Try not to use all, or even the majority, of articles available from a single source. Limit yourself to those articles that are directly relevant to your audience.
+3. Prominently identify the source of the article.
+4. Whenever possible, link to the original source of the article.
+5. When possible, provide context or commentary for the material you use.
+
+Source: http://www.niemanlab.org/2010/09/whats-the-law-around-aggregating-news-online-a-harvard-law-report-on-the-risks-and-the-best-practices/

@@ -1,0 +1,19 @@
+CREATE TABLE IF NOT EXISTS Articles (
+    Hash TEXT NOT NULL UNIQUE PRIMARY KEY,
+    Url TEXT NOT NULL,
+    DateAccess TEXT NOT NULL,
+    Source TEXT NOT NULL,
+    DatePublish TEXT NOT NULL,
+    Authors TEXT NOT NULL,
+    Title TEXT NOT NULL,
+    Summary TEXT NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS Sources (
+    Id TEXT NOT NULL UNIQUE PRIMARY KEY,
+    Name TEXT NOT NULL,
+    Url TEXT NOT NULL,
+    Category TEXT NOT NULL,
+    Language TEXT NOT NULL,
+    Country TEXT NOT NULL
+);
