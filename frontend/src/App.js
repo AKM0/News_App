@@ -117,7 +117,7 @@ class App extends Component {
         }
 
         var uniqueSourcesArr = Array.from(uniqueSources);
-        var sources = Array.sort(uniqueSourcesArr);
+        var sources = uniqueSourcesArr.sort()
 
         this.setState({ sources: sources });
         this.initHidden();

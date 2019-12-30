@@ -31,7 +31,7 @@ Node.js and NPM
 
 1. Navigate to /backend/server/
 2. Start server (node server)
-3. Navigate to /frontend/server/
+3. Navigate to /frontend/
 4. Start client page (npm start)
 5. Access at http://localhost:3000/
 
